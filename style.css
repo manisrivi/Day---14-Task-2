@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient( 135deg, #FDEB71 10%, #F8D800 100%);
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.tag1 {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    width: 1000px;
+}
+
+.head > h1 , h3{
+    /* background-color: cadetblue; */
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form > .name {
+    /* background-color: rgb(156, 231, 16); */
+    display: flex;
+    justify-content: end;
+    padding: 2px;
+    width: 500px;
+
+}
+
+#box {
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+}
+
+form > img {
+    float: left;
+    margin-right: 15px;
+}
+
+.total {
+    /* background-color: aliceblue; */
+    display: flex;
+    justify-content: center;
+}
+#btn {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
